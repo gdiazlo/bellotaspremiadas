@@ -1,0 +1,63 @@
+#msg-box5-NaN .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-NaN .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-NaN .mbr-article {
+  color: #ffffff;
+}
+#dropdown-menu-NaN .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-NaN .nav .link,
+#dropdown-menu-NaN .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-NaN .navbar,
+#dropdown-menu-NaN .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-NaN .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-NaN .dropdown-menu a:hover,
+#dropdown-menu-NaN .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-NaN .navbar-toggler {
+  color: #ffffff;
+}
+#content5-NaN .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+#content5-NaN .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-NaN .mbr-article {
+  color: #fff;
+}
+#content5-NaN .mbr-article P {
+  text-align: right;
+}
+#content4-NaN P {
+  text-align: center;
+}
+#content4-NaN .mbr-section__col .mbr-header__text {
+  text-align: center;
+}
+#content5-NaN .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-NaN .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-NaN .mbr-article {
+  color: #fff;
+}
+#content5-NaN .mbr-article P {
+  text-align: center;
+}
